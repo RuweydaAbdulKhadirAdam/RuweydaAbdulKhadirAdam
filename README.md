@@ -1,144 +1,188 @@
-<div align="center">
+██████╗ ██╗   ██╗██╗    ██╗███████╗██╗   ██╗██████╗
+██╔══██╗██║   ██║██║    ██║██╔════╝╚██╗ ██╔╝██╔══██╗
+██████╔╝██║   ██║██║ █╗ ██║█████╗   ╚████╔╝ ██║  ██║
+██╔══██╗██║   ██║██║███╗██║██╔══╝    ╚██╔╝  ██║  ██║
+██║  ██║╚██████╔╝╚███╔███╔╝███████╗   ██║   ██████╔╝
+╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═════╝
 
-<!-- HEADER IMAGE -->
-<img src="./header.svg" alt="Ruweyda Abdul Khadir - Software Engineer" width="100%" />
+                 R U W E Y D A
 
-<br/><br/>
+<h3 align="center">
+Software Developer • Web & Mobile Developer • Technology Enthusiast
+</h3>
 
-<!-- 1. SAWIRKII PROFILE-KA OO SIDII SHARADDAADII HORE LOO SOO CELIYEY -->
-<div align="center" style="margin-bottom: 35px;">
-  <img 
-    src="./profile.jpg" 
-    width="160px" 
-    style="
-      border-radius: 50%;
-      border: 4px solid #7c3aed;
-      box-shadow: 12px 0px 30px rgba(124, 58, 237, 0.6),
-                  -6px 0px 15px rgba(0, 0, 0, 0.2);
-    "
-  />
-</div>
-<br/>
-<br/>
-<!-- 2. ICONS-KA IYO QORAALKA OOY DHEXEYSO MASAAFO HABOON -->
-<div align="center" style="display: flex; justify-content: center; gap: 45px; align-items: center; flex-wrap: wrap;">
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <img width="38" src="https://cdn.simpleicons.org/linkedin/0077b5" alt="LinkedIn" />
-    <span style="color: #0077b5; font-family: sans-serif; font-size: 14px; font-weight: bold;">LinkedIn</span>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <img width="38" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
-    <span style="color: #181717; font-family: sans-serif; font-size: 14px; font-weight: bold;">GitHub</span>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <img width="38" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" />
-    <span style="color: #1877F2; font-family: sans-serif; font-size: 14px; font-weight: bold;">Facebook</span>
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <img width="38" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" />
-    <span style="color: #000000; font-family: sans-serif; font-size: 14px; font-weight: bold;">TikTok</span>
-  </a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuweydaAbdulKhadirAdam&label=Profile%20Views&color=0E75B6&style=for-the-badge" />
+</p>
 
 ---
 
-## `> whoami`
+## 👩‍💻 About Me
 
-name: "Ruweyda Abdul Khadir Adam"
-role: "Software Engineering Student (Final Year)"
-university: "Jamhuuriya University of Science & Technology"
-location: "Mogadishu, Somalia 🇸🇴"
-focus: "Full-Stack Web · Mobile · System Design"
-status: "Open to opportunities & collaboration"
-motto: "Clean code. Real impact. Built in Somalia."
-```
+I am a passionate software developer who enjoys building modern applications, solving problems, and continuously learning new technologies.
 
-✨ I turn ideas into **products**. Whether it's a scalable web backend,
-a polished mobile interface, or a complex system architecture —
-I build with **intention**, **clarity**, and care for the **user experience**.
+- 🌱 Currently learning modern development technologies
+- 💻 Interested in Web Development
+- 📱 Interested in Mobile Development
+- 🗄️ Passionate about Databases
+- 🚀 Always exploring new tools and frameworks
+- 🤝 Open to collaboration and learning opportunities
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Technologies & Frameworks
 
-<div align="center">
+<p align="center">
 
-### 🏫 School Management System
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,mongodb&perline=4"/>
 
-*Web-based platform streamlining institutional administration*
+</p>
 
-| | |
-|---|---|
-| **Problem** | Manual school admin processes are slow, error-prone, and hard to scale |
-| **Solution** | Automated workflows, centralized records, clean data architecture |
-| **Stack** | PHP · MySQL |
+### Development Stack
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+```txt
+Frameworks
+├── Frappe Framework
+├── Express.js
+├── Flutter
+└── React
 
-</div>
+Styling
+└── Tailwind CSS
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark" />
-
-### Backend & Mobile
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,spring,flutter,cs,cpp&theme=dark" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,docker,postman&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuweydaAbdulKhadirAdam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuweydaAbdulKhadirAdam&layout=compact&langs_count=6&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuweydaAbdulKhadirAdam&theme=tokyonight"/>
-
-</div>
----
-
-## 🔭 Currently
-
-```json
-{
-  "status": "Final Year – Software Engineering",
-  "learning": ["Frappe Framework", "System Design", "Cloud Architecture"],
-  "building": ["Scalable web applications", "Clean mobile UX"],
-  "open_to": ["Collaboration", "Open Source", "New Opportunities"]
-}
+Databases
+├── MongoDB
+├── MariaDB
+└── MS SQL Server
 ```
 
 ---
 
+## 🛠️ Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,docker&perline=4"/>
+
+</p>
+
+```txt
+Tools
+├── GitHub
+├── VS Code
+├── XAMPP
+├── pgAdmin
+├── Postman
+├── Docker
+└── Jupyter Notebook
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuweydaAbdulKhadirAdam&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuweydaAbdulKhadirAdam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuweydaAbdulKhadirAdam&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuweydaAbdulKhadirAdam&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+```txt
+✓ Improve React Skills
+✓ Master Flutter Development
+✓ Learn Advanced Express.js
+✓ Build Real World Projects
+✓ Improve Database Design Skills
+✓ Learn More About Frappe Framework
+✓ Contribute To Open Source Projects
+```
+
+---
+
+## 📚 Learning Path
+
+```mermaid
+graph LR
+
+A[Frappe Framework]
+B[Express.js]
+C[Flutter]
+D[React]
+E[MongoDB]
+F[MariaDB]
+G[MS SQL Server]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+```
+
+---
+
+## 🌟 Featured Skills
+
+<table align="center">
+<tr>
+<td align="center">⚛️ React</td>
+<td align="center">📱 Flutter</td>
+<td align="center">🎨 Tailwind CSS</td>
+</tr>
+
+<tr>
+<td align="center">⚡ Express.js</td>
+<td align="center">🗄️ MongoDB</td>
+<td align="center">💾 MS SQL</td>
+</tr>
+
+<tr>
+<td align="center">🔧 Docker</td>
+<td align="center">🐙 GitHub</td>
+<td align="center">💻 VS Code</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/RuweydaAbdulKhadirAdam">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-<!-- ANIMATED SVG FOOTER -->
-<img src="./footer.svg" alt="Clean code. Real impact. Built in Somalia." width="100%" />
+### 💡 "Every expert was once a beginner."
+
+⭐ Thanks for visiting my profile!
 
 </div>
