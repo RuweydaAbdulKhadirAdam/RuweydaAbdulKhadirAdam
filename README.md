@@ -1,7 +1,20 @@
 <div align="center">
 
-<!-- ANIMATED SVG HEADER - NO EXTERNAL SERVICE NEEDED -->
+<!-- HEADER IMAGE -->
 <img src="./header.svg" alt="Ruweyda Abdul Khadir - Software Engineer" width="100%" />
+
+<br/><br/>
+
+<!-- PROFILE IMAGE (CIRCLE) -->
+<img 
+  src="./profile.jpg" 
+  width="160px" 
+  style="
+    border-radius: 50%;
+    border: 4px solid #7c3aed;
+    box-shadow: 0 0 25px rgba(124, 58, 237, 0.7);
+  "
+/>
 
 <br/>
 
@@ -10,7 +23,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ruweydaabdulkhadir&style=for-the-badge&color=00f5d4&label=Profile+Views)
 
 </div>
-
+halkn rba in img so galyo
 ---
 
 ## `> whoami`
