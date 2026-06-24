@@ -1,6 +1,18 @@
 <img src="./header.svg" alt="Ruweyda Abdul Khadir - Software Engineer" width="100%" />
 
-<img src="https://avatars.githubusercontent.com/RuweydaAbdulKhadirAdam" width="120" style="border-radius:50%"/>
+<div align="center">
+  <img 
+    src="./profile.jpg" 
+    alt="Ruweyda Abdul Khadir"
+    width="160px" 
+    style="
+      border-radius: 50%;
+      border: 4px solid #7c3aed;
+      box-shadow: 12px 0px 30px rgba(124, 58, 237, 0.6),
+                  -6px 0px 15px rgba(0, 0, 0, 0.2);
+    " 
+  />
+</div>
 
 <br/>
 
