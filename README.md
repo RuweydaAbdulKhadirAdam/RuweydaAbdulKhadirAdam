@@ -181,3 +181,4 @@ Halkan waa meelaha aan diirada saarayo si aan u horumariyo xirfadeyda software e
 </svg>
 
 </div>
+<img src="./footer.svg" alt="Ruweyda Abdul Khadir - Software Engineer" width="100%" />
