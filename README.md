@@ -99,11 +99,6 @@ I am a passionate software developer who enjoys building modern applications, so
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuweydaAbdulKhadirAdam&theme=tokyo-night" />
-</p>
 
 ---
 
@@ -179,6 +174,13 @@ txt
 </div>
 
 ---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuweydaAbdulKhadirAdam&theme=tokyo-night" />
+</p>
+
 
 ## 🔭 Currently
 
