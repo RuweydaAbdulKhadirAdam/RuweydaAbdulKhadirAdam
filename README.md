@@ -53,14 +53,13 @@
 
 ## `> whoami`
 
-```yaml
-name        : Ruweyda Abdul Khadir Adam
-role        : Software Engineering Student (Final Year)
-university  : Jamhuuriya University of Science & Technology
-location    : Mogadishu, Somalia 🇸🇴
-focus       : Full-Stack Web · Mobile · System Design
-status      : Open to opportunities & collaboration
-motto       : Clean code. Real impact. Built in Somalia.
+name: "Ruweyda Abdul Khadir Adam"
+role: "Software Engineering Student (Final Year)"
+university: "Jamhuuriya University of Science & Technology"
+location: "Mogadishu, Somalia 🇸🇴"
+focus: "Full-Stack Web · Mobile · System Design"
+status: "Open to opportunities & collaboration"
+motto: "Clean code. Real impact. Built in Somalia."
 ```
 
 ✨ I turn ideas into **products**. Whether it's a scalable web backend,
