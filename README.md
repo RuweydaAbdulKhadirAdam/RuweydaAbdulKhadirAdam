@@ -20,22 +20,22 @@
 
 <br/>
 
-<div align="center" style="display:flex; justify-content:center; gap:15px; align-items:center;">
+<div align="center" style="display:flex; justify-content:center; gap:25px; align-items:center;">
 
   <a href="https://linkedin.com">
-    <img width="35" src="https://cdn.simpleicons.org/linkedin/0077b5" />
+    <img width="38" src="https://cdn.simpleicons.org/linkedin/0077b5" />
   </a>
 
   <a href="https://github.com">
-    <img width="35" src="https://cdn.simpleicons.org/github/181717" />
+    <img width="38" src="https://cdn.simpleicons.org/github/181717" />
   </a>
 
   <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr">
-    <img width="35" src="https://cdn.simpleicons.org/facebook/1877F2" />
+    <img width="38" src="https://cdn.simpleicons.org/facebook/1877F2" />
   </a>
 
   <a href="https://www.tiktok.com">
-    <img width="35" src="https://cdn.simpleicons.org/tiktok/000000" />
+    <img width="38" src="https://cdn.simpleicons.org/tiktok/000000" />
   </a>
 
 </div>
