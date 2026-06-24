@@ -5,10 +5,6 @@
 
 <br/>
 
-<img src="./profile.jpg" width="150" height="150" style="border-radius:50%; border:3px solid #00f5d4; object-fit:cover;" alt="Ruweyda Abdul Khadir"/>
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=RuweydaAbdulKhadirAdam&style=for-the-badge&color=00f5d4&label=Profile+Views)
@@ -18,6 +14,8 @@
 ---
 
 ## `> whoami`
+
+<img src="./profile_circle.svg" align="right" width="160" alt="Ruweyda Abdul Khadir"/>
 
 ```yaml
 name        : Ruweyda Abdul Khadir Adam
