@@ -5,37 +5,45 @@
 
 <br/><br/>
 
+<!-- 1. SAWIRKII PROFILE-KA OO SIDII SHARADDAADII HORE LOO SOO CELIYEY -->
 <div align="center" style="margin-bottom: 35px;">
   <img 
     src="./profile.jpg" 
-    alt="Ruweyda Abdul Khadir"
+    width="160px" 
     style="
-      width: 180px; 
-      height: 180px;
-      object-fit: cover;
       border-radius: 50%;
-      border: 4px solid #00205B;
-      box-shadow: 0px 8px 25px rgba(0, 32, 91, 0.5);
+      border: 4px solid #7c3aed;
+      box-shadow: 12px 0px 30px rgba(124, 58, 237, 0.6),
+                  -6px 0px 15px rgba(0, 0, 0, 0.2);
     "
   />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+<!-- 2. ICONS-KA IYO QORAALKA OOY DHEXEYSO MASAAFO HABOON -->
+<div align="center" style="display: flex; justify-content: center; gap: 45px; align-items: center; flex-wrap: wrap;">
 
-  <a href="https://linkedin.com" target="_blank">
-    <img width="40" src="https://cdn.simpleicons.org/linkedin/0077b5" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img width="38" src="https://cdn.simpleicons.org/linkedin/0077b5" alt="LinkedIn" />
+    <span style="color: #0077b5; font-family: sans-serif; font-size: 14px; font-weight: bold;">LinkedIn</span>
   </a>
 
-  <a href="https://github.com" target="_blank">
-    <img width="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
+  <!-- GitHub -->
+  <a href="https://github.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img width="38" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
+    <span style="color: #181717; font-family: sans-serif; font-size: 14px; font-weight: bold;">GitHub</span>
   </a>
 
-  <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr" target="_blank">
-    <img width="40" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" />
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img width="38" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" />
+    <span style="color: #1877F2; font-family: sans-serif; font-size: 14px; font-weight: bold;">Facebook</span>
   </a>
 
-  <a href="https://www.tiktok.com" target="_blank">
-    <img width="40" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" />
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img width="38" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" />
+    <span style="color: #000000; font-family: sans-serif; font-size: 14px; font-weight: bold;">TikTok</span>
   </a>
 
 </div>
