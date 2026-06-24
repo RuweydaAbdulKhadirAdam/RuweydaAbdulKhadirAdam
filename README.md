@@ -175,7 +175,7 @@ Halkan waa meelaha aan diirada saarayo si aan u horumariyo xirfadeyda software e
   <rect width="900" height="80" fill="url(#bgF)"/>
   <path fill="#00f5d4" fill-opacity="0.05"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0,0 Q450,20 900,0 L900,6 Q450,26 0,6 Z;M0,0 Q450,6 900,0 L900,6 Q450,12 0,6 Z;M0,0 Q450,20 900,0 L900,6 Q450,26 0,6 Z"/></path>
   <line x1="120" y1="28" x2="780" y2="28" stroke="url(#lineF)" stroke-width="0.8"/>
-  <text x="450" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#00f5d4" font-style="italic">✨  Clean code. Real impact. Built in Somalia. 🇸🇴  ✨</text>
+  <text x="450" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#00f5d4" font-
   <circle cx="80" cy="50" r="1.2" fill="#a855f7"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
   <circle cx="820" cy="50" r="1.2" fill="#ff2d78"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="3s" repeatCount="indefinite"/></circle>
 </svg>
