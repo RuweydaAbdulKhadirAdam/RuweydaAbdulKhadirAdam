@@ -77,13 +77,13 @@ I build with **intention**, **clarity**, and care for the **user experience**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuweydaAbdulKhadirAdam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5d4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuweydaAbdulKhadirAdam&layout=compact&langs_count=6&theme=tokyonight&border_color=00f5d4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruweydaabdulkhadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuweydaAbdulKhadirAdam&theme=tokyonight&border=00f5d4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruweydaabdulkhadir&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruweydaabdulkhadir&theme=tokyonight" />
 
 </div>
-
 ---
 
 ## 🔭 Currently
