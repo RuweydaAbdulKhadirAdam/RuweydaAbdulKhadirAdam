@@ -85,6 +85,46 @@ I build with **intention**, **clarity**, and care for the **user experience**.
 
 ---
 
+
+## 👩‍💻 About Me
+
+I am a passionate software developer who enjoys building modern applications, solving problems, and continuously learning new technologies.
+
+- 🌱 Currently learning modern development technologies
+- 💻 Interested in Web Development
+- 📱 Interested in Mobile Development
+- 🗄️ Passionate about Databases
+- 🚀 Always exploring new tools and frameworks
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuweydaAbdulKhadirAdam&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+txt
+✓ Improve React Skills
+✓ Master Flutter Development
+✓ Learn Advanced Express.js
+✓ Build Real World Projects
+✓ Improve Database Design Skills
+✓ Learn More About Frappe Framework
+✓ Contribute To Open Source Projects
+
+
+---
+
+
+
+
+
 ## 🚀 Featured Project
 
 <div align="center">
