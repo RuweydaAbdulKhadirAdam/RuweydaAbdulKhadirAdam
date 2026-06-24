@@ -18,9 +18,10 @@
     "
   />
 </div>
-
+<br/>
+<br/>
 <!-- 2. ICONS-KA IYO QORAALKA OOY DHEXEYSO MASAAFO HABOON -->
-<div align="center" style="display: flex; justify-content: center; gap: 45px; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 90px; align-items: center; flex-wrap: wrap;">
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 8px;">
