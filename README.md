@@ -59,16 +59,21 @@ I am a passionate software developer who enjoys building modern applications, so
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Development Roadmap
 
-txt
-✓ Improve React Skills
-✓ Master Flutter Development
-✓ Learn Advanced Express.js
-✓ Build Real World Projects
-✓ Improve Database Design Skills
-✓ Learn More About Frappe Framework
-✓ Contribute To Open Source Projects
+Halkan waa meelaha aan diirada saarayo si aan u horumariyo xirfadeyda software engineering:
+
+| **Frontend & Mobile** | **Backend & Architecture** | **Growth & Contribution** |
+| :--- | :--- | :--- |
+| ⚛️ Improve React | 🚀 Master Express.js | 🛠️ Build Real World Projects |
+| 💙 Master Flutter | 🗄️ Database Design | 🌐 Contribute to Open Source |
+| | ⚡ Frappe Framework | |
+
+---
+### 📈 Status Overview
+*   **Current Priority:** Improving React & Frappe Framework.
+*   **Building:** Scaling Guri-Maal & School Management System.
+*   **Goal:** Moving from "Learning" to "Mastery" in System Architecture.
 
 
 ---
