@@ -5,37 +5,37 @@
 
 <br/><br/>
 
-<!-- PROFILE IMAGE (CIRCLE) -->
-<img 
-  src="./profile.jpg" 
-  width="160px" 
-  style="
-    border-radius: 50%;
-    border: 4px solid #7c3aed;
-    box-shadow: 0 0 25px rgba(124, 58, 237, 0.7);
-  box-shadow: 12px 0px 30px rgba(124, 58, 237, 0.6),
-                -6px 0px 15px rgba(0, 0, 0, 0.2);
-  "
-/>
+<div align="center" style="margin-bottom: 35px;">
+  <img 
+    src="./profile.jpg" 
+    alt="Ruweyda Abdul Khadir"
+    style="
+      width: 180px; 
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #00205B;
+      box-shadow: 0px 8px 25px rgba(0, 32, 91, 0.5);
+    "
+  />
+</div>
 
-<br/>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center;">
 
-<div align="center" style="display:flex; justify-content:center; gap:25px; align-items:center;">
-
-  <a href="https://linkedin.com">
-    <img width="38" src="https://cdn.simpleicons.org/linkedin/0077b5" />
+  <a href="https://linkedin.com" target="_blank">
+    <img width="40" src="https://cdn.simpleicons.org/linkedin/0077b5" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com">
-    <img width="38" src="https://cdn.simpleicons.org/github/181717" />
+  <a href="https://github.com" target="_blank">
+    <img width="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
   </a>
 
-  <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr">
-    <img width="38" src="https://cdn.simpleicons.org/facebook/1877F2" />
+  <a href="https://www.facebook.com/share/1CW9WsALKR/?mibextid=wwXIfr" target="_blank">
+    <img width="40" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" />
   </a>
 
-  <a href="https://www.tiktok.com">
-    <img width="38" src="https://cdn.simpleicons.org/tiktok/000000" />
+  <a href="https://www.tiktok.com" target="_blank">
+    <img width="40" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" />
   </a>
 
 </div>
